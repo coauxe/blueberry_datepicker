@@ -1,0 +1,63 @@
+body{
+	margin:0;
+	background-color: #3333CC;
+	font-family: arial;
+}
+
+h2{
+	text-align: center;
+	color:blue;
+	font-size: 3em;
+}
+p{
+	font-size: 2em;
+	color: white;
+}
+#header{
+	border: 2px dashed #00004C;
+	background-color: #AAC6FF;
+	margin-bottom:20px;
+	border-radius: 50px;
+}
+#left{
+	position: relative;
+	float:left;
+	margin:100px;
+	margin-bottom:0px;
+}
+#right{
+	position: relative;
+	float:right;
+	margin:100px;
+	margin-bottom:0px;
+}
+.clear{
+	clear:both;
+}
+#destination{
+	top:100px;
+	margin:0 auto;
+	width:300px;
+}
+#destination p{
+	text-align: center;
+}
+#dropdown{
+	font-size: .85em;
+	margin: 0 auto;
+}
+#dropWrapper{
+	margin: 0 auto;
+	width:85px;
+	margin-top:-10px;
+}
+button{
+	width:100px;
+	height: 70px;
+	font-size: 1.1em;
+	border-radius: 10px;
+}
+#buttonWrapper{
+	margin: 100px auto;
+	width:100px;
+}
